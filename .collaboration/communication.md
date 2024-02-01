@@ -18,8 +18,13 @@
 ## Communication Schedule
 
 | Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| ------ | :-----: | :-----: | 
+| 22-Jan | Google meet | Problem identification (Divergence) |
+| 26-Jan | Google meet | Problem identification (Convergence) |
+| 28-Jan | Google meet | Problem identification (Convergence) |
+| 29-Jan | Slack | Check-in with Evan |
+| 30-Jan | Slack | Rebooting |
+||||
 
 ## Communication Channels
 
@@ -27,8 +32,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - **Issues**:
 - **Pull Requests**:
-- **Slack/Discord**:
-- **Video Calls**:
+- **GitHub Discussions**
+- **Slack/Discord**: As required, Maybe everyday.
+- **Video Calls**: Twice a week 
 
 ---
 
@@ -36,17 +42,24 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| Day (EST Time)   | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Hilal  | 10:00- 12:50 | 5:00-9:00 |11:00 - 13 |11:00 - 13:00 | 11:00 - 13:00 | 5:00-11:00| 5:00-11:00 |
+| Sujood | 11:30 - 13:30 | 10:00 - 14:00 | 10:00 - 14:00 | 10:00 - 14:00 | all day | all day except 10-12| 10:00 - 14:00|
+| Yoseph | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 10:00 - 12:00 | 8:00 - 12:00 | 
+| Amr | +11 est any day
+| Loue | 11:00 - 13:00|||11:00 - 13:00|||11:00 - 13:00|
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+| Name    | Availability Hours (Per Day) |Comment |
+| ------ | :-----: | :-----: |
+| Hila Ahmad | 4 Hours | Everday. On weekends, I can give from 4 to 6 hours per day for the Project |
+| Sujood | 3-4 Hours | Mostly I am available at night my local time (from around 11:00 am EST |
+| Yoseph | 2-4 Hours | Everyday. (from around 10:00 am EST |
+| Amr | 2-4 Hours | depends on workload |Lourdes-Erlie|2-4 Hours|Everyday.(from around 11:00 am Est|On weekends, I am availaible only saturday.|
+| Loue | 2-4 Hours | Mostly free on Monday, Thursday and Sunday.
+
 
 ## Asking for Help
 
