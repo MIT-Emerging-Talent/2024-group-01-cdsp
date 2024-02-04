@@ -12,7 +12,9 @@ Therefore, it is necessary to have a comprehensive understanding of the multifac
 We aim to investigate the impacts of Urbanization on agricultural productivity and sustainability and the strategies that can be implemented to mitigate adverse effects and harness potential benefits.
 
 ## System and Design Thinking
-??
+Environment, ecology, and societies make a perfect example of what complex systems are. their intertwined relationships, interdependence, mutual effects, and life cycles; are all characteristics of such systems.
+In addressing our selected issue we will be relying on and adopting a system thinking mindset, investigating the different phenomenons of these connections, their correlations and causalities, and their feedback loops in action through time.
+As our research question involves human factors when addressing urbanization, it's also imperative to center humans in the middle of the process, therefore we are adaption concepts from the design thinking framework to relate and empathize with the communities we are analyzing, and include them throughout defining the issues and drivers related to urbanization and agriculture, also to ideate and prototype our study until we get to test our hypothesis with real data from the field.
 
 ## License
 
