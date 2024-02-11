@@ -4,7 +4,6 @@
 -->
 
 # Retrospective
-
 Throughout the data collection phase of our project, we encountered significant challenges in locating relevant datasets. Our initial approach was slow and often felt like searching for a needle in a haystack. Despite these hurdles, our perseverance paid off when we finally identified the dataset that perfectly met our project requirements. This journey taught us valuable lessons about research, teamwork, and the importance of adaptability.
 
 ## Stop Doing
