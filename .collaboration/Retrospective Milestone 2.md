@@ -10,8 +10,7 @@ Throughout the data collection phase of our project, we encountered significant 
 ## Stop Doing
 * We realized that our research methods were not as effective as we had hoped. Relying heavily on broad internet searches often led us down rabbit holes with little relevance to our project goals. Moving forward, we plan to reduce our dependence on such unfocused strategies.
 
-* 
-As we reflect on our initial approach to data collection, we recognize the need for a more focused and efficient strategy moving forward. To address this, we've outlined several key changes to our research methodology:
+* As we reflect on our initial approach to data collection, we recognize the need for a more focused and efficient strategy moving forward. To address this, we've outlined several key changes to our research methodology:
 
 **Defining Specific Criteria for Information Relevance:** Before we even start our next search, we will establish clear criteria that define what makes information relevant to our project objectives. This means setting specific parameters that data must meet to be considered useful for our analysis. By doing this, we aim to streamline our search process, ensuring that every piece of data we collect directly contributes to our project goals.
 
