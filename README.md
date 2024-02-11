@@ -16,6 +16,12 @@ Environment, ecology, and societies make a perfect example of what complex syste
 In addressing our selected issue we will be relying on and adopting a system thinking mindset, investigating the different phenomenons of these connections, their correlations and causalities, and their feedback loops in action through time.
 As our research question involves human factors when addressing urbanization, it's also imperative to center humans in the middle of the process, therefore we are adaption concepts from the design thinking framework to relate and empathize with the communities we are analyzing, and include them throughout defining the issues and drivers related to urbanization and agriculture, also to ideate and prototype our study until we get to test our hypothesis with real data from the field.
 
+## Domain Modelling:
+Our problem lies in the intersection between two domains, agriculture and urbanization; we decided to model it by finding a correlation between two main factors: agricultural land change over the course of the past years and population change over the same period. 
+
+While agricultural land and population increase are important factors in understanding the impact of urbanization on agriculture, Urbanization and its effects on agriculture involve complex interactions between various socioeconomic, environmental, and political factors. It's challenging to capture all these interactions accurately in a model that relies solely on data about agricultural land and population increase. Without considering these interdependencies, our model may oversimplify the issue and provide misleading conclusions.
+
+Additionally, the availability and quality of data on agricultural land and population increase may vary across regions and time periods. Biases, inaccuracies, or gaps in the data could skew our analysis and lead to flawed conclusions. 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
