@@ -65,7 +65,13 @@ urban.index
 # drop replications
 land = land.drop_duplicates()
 urban = urban.drop_duplicates()
-
+#adding suffix to year columns to differentiate land and urban data
+urban = urban.add_suffix('_urban')
+land = land.add_suffix('_land')
 #merging
-agriculture = pd.merge(urban, land, left_index=True, right_on='Area')
+agriculture = pd.merge(land, urban, left_index=True, right_index=True).sort_index(axis=1)
 agriculture.head()
+#drop the duplicate Area column and other columns that are not of significance for this study
+for col1 in Agriculture.columns[2::]:
+  if col1 == 'Area':
+    Agriculture.drop(columns=[col1, 'Country Code', 'Indicator Name', 'Indicator Code', 'Unnamed: 67'], inplace=True)
